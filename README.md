@@ -1,5 +1,5 @@
 
-<div align="center" text-align='center'>
+<div align="center">
 <a href="https://www.instagram.com/rzashakeri/">
 <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/d0ec59c4-60db-4b45-a632-7c9053bdb15d">
 </a>
