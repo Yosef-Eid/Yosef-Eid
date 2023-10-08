@@ -1,4 +1,4 @@
-<img src='https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/c06ca502-7c0e-40a2-bf5f-8b6406394dd4'/>
+
 <div align="justify">
 <a href="https://www.instagram.com/rzashakeri/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -27,7 +27,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+welcome to my GitHub Page. I am Yousef Eid. I am a front-end designer and developer, I learn new things about programming and teach these things to others, I have been programming for almost more than 3 years and worked with many languages and technologies. I have created and developed a new library called (joscript) that simplifies JavaScript code so that developing and building websites is easier than would be possible with JavaScript alone. You can watch it here <a href="">Joscript</a> 
 
 </p>
 
