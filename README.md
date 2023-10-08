@@ -61,9 +61,17 @@ welcome to my GitHub Page. I am Yousef Eid. I am a front-end designer and develo
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-    <td align="center" width="96">
-        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/09410a6d-6a73-4da3-9743-3e9acfb0cd2e" />
+    <td align="center" width="80">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/1c639213-ff7d-4ce3-938d-d9da25a52804" />
       <br>React
+    </td>
+    <td align="center" width="80">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e42ef55e-7eeb-4a86-9cf3-0e472580f39e" />
+      <br>Redux
+    </td>
+    <td align="center" width="80">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/315d0857-c03b-4cd5-9a0c-1ba43837343a" />
+      <br>MUI
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -73,12 +81,17 @@ welcome to my GitHub Page. I am Yousef Eid. I am a front-end designer and develo
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
+    <td align="center" width="200">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/f91653c3-70d1-4464-bb07-a4c10567fc79" />
+      <br>Figma
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
+   
   </tr>
- 
+
   <tr>
     
  </tr>
