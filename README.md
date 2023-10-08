@@ -27,7 +27,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Yousef Eid. I am a front-end designer and developer, I learn new things about programming and teach these things to others, I have been programming for almost more than 3 years and worked with many languages and technologies. I have created and developed a new library called (joscript) that simplifies JavaScript code so that developing and building websites is easier than would be possible with JavaScript alone. You can watch it here <a href="">Joscript</a> 
+welcome to my GitHub Page. I am Yousef Eid. I am a front-end designer and developer, I learn new things about programming and teach these things to others, I have been programming for almost more than 3 years and worked with many languages and technologies. I have created and developed a new library called (joscript) that simplifies JavaScript code so that developing and building websites is easier than would be possible with JavaScript alone. You can watch it here <a href="https://github.com/Yosef-Eid/joscript">Joscript</a>  
 
 </p>
 
