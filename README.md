@@ -1,27 +1,35 @@
 
-<div align="justify">
+<div align="center" text-align='center'>
 <a href="https://www.instagram.com/rzashakeri/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/d0ec59c4-60db-4b45-a632-7c9053bdb15d">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@rzashakeri">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e1136458-0bfa-4c9d-895f-cffd6b6fe16b">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.twitter.com/rzashakeri/">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+<img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/4a2b9734-89ad-4b3d-adf6-e445ae5bdf2a">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rezshakeri/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+<img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/77a117ba-f200-4d05-83d5-10b03bbbe8f4">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/barnamenevisiadmin/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/5fec61ae-4280-4c0d-931c-4eb8f6121ee0">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://gitlab.com/rzashakeri">
-<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/5eeb8566-0239-46c6-baf0-f1ddfd6273dc">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gitlab.com/rzashakeri">
+<img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/bfeeff6c-6547-4143-99cd-bb6082f8f9f4">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gitlab.com/rzashakeri">
+<img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/c91ee0f0-5949-4fa4-b8d3-9d6a6bb7ad53">
 </a>
 
 </div>
