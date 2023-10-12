@@ -9,10 +9,6 @@
 <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e1136458-0bfa-4c9d-895f-cffd6b6fe16b">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.twitter.com/rzashakeri/">
-<img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/4a2b9734-89ad-4b3d-adf6-e445ae5bdf2a">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rezshakeri/">
 <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/77a117ba-f200-4d05-83d5-10b03bbbe8f4">
 </a>
@@ -69,15 +65,15 @@ I founded my company, which I called  <a href="https://github.com/jo-script">Jos
         <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/1c639213-ff7d-4ce3-938d-d9da25a52804" />
       <br>React
     </td>
-    <td align="center" width="80">
-        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e42ef55e-7eeb-4a86-9cf3-0e472580f39e" />
+    <td align="center" width="30">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e42ef55e-7eeb-4a86-9cf3-0e472580f39e"/>
       <br>Redux
     </td>
     <td align="center" width="80">
         <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/315d0857-c03b-4cd5-9a0c-1ba43837343a" />
       <br>MUI
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
