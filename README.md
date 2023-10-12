@@ -61,16 +61,16 @@ I founded my company, which I called  <a href="https://github.com/jo-script">Jos
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-    <td align="center" width="80">
-        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/1c639213-ff7d-4ce3-938d-d9da25a52804" />
+    <td align="center" width="96">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/1c639213-ff7d-4ce3-938d-d9da25a52804" alt="icon" width="50" height="50"  />
       <br>React
     </td>
-    <td align="center" width="80">
-        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e42ef55e-7eeb-4a86-9cf3-0e472580f39e"/>
+    <td align="center" width="96">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e42ef55e-7eeb-4a86-9cf3-0e472580f39e" alt="icon" width="50" height="50" />
       <br>Redux
     </td>
     <td align="center" width="80">
-        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/315d0857-c03b-4cd5-9a0c-1ba43837343a" />
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/315d0857-c03b-4cd5-9a0c-1ba43837343a" alt="icon" width="50" height="50" />
       <br>MUI
     </td>
     <td align="center" width="96">
