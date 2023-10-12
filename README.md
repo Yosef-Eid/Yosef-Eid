@@ -36,7 +36,10 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Yousef Eid. I am a front-end designer and developer, I learn new things about programming and teach these things to others, I have been programming for almost more than 3 years and worked with many languages and technologies. I have created and developed a new library called (joscript) that simplifies JavaScript code so that developing and building websites is easier than would be possible with JavaScript alone. You can watch it here <a href="https://github.com/Yosef-Eid/joscript">Joscript</a>  
+ I am Youssef Eid, a designer and developer of websites and web applications with more than three years of experience. My passion for the world of programming began many years ago, and since then, I have continued to develop my skills and research the latest technologies and trends in the field of web design and development.
+
+I founded my company, which I called  <a href="https://github.com/jo-script">Joscript</a> , which is a company specialized in providing comprehensive services in the field of designing and developing websites and web applications. This company represents a platform to realize my ambitions and creativity in the web world, and gives me the opportunity to provide wonderful and unique solutions to my clients.
+
 
 </p>
 
