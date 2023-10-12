@@ -65,7 +65,7 @@ I founded my company, which I called  <a href="https://github.com/jo-script">Jos
         <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/1c639213-ff7d-4ce3-938d-d9da25a52804" />
       <br>React
     </td>
-    <td align="center" width="30">
+    <td align="center" width="80">
         <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e42ef55e-7eeb-4a86-9cf3-0e472580f39e"/>
       <br>Redux
     </td>
@@ -81,8 +81,8 @@ I founded my company, which I called  <a href="https://github.com/jo-script">Jos
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
-    <td align="center" width="200">
-        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/f91653c3-70d1-4464-bb07-a4c10567fc79" />
+    <td align="center" width="80">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/f91653c3-70d1-4464-bb07-a4c10567fc79"  width="50" height="50" />
       <br>Figma
     </td>
    <br>
@@ -90,23 +90,26 @@ I founded my company, which I called  <a href="https://github.com/jo-script">Jos
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-   
   </tr>
-  <tr>
-<div align="center">
-       <td align="center" >
-        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e78acd84-69c0-4ade-97ad-61176af84f8e" />
+
+ 
+   <tr align="center">
+       <td align="center"  width="96">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/d966ff17-0e0d-4416-a46d-5eb05c14357e" width="48" height="48" />
       <br>Notion
     </td>
-      <td align="center" width="80">
-        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/d32e4931-357d-4ce0-a67f-3fac50ef3fb4" />
-      <br>Notion
+    <td align="center" width="96">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/310d4442-f1d6-4617-b9c1-ce12135bb1b5" width="48" height="48" a />
+      <br>vs code
     </td>
-      <td align="center" width="80">
-        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e3e5979f-4778-4d96-8cfa-49b1075b00aa" />
-      <br>Vs Code
+    <td align="center"  width="96">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/f45937d2-0787-4125-829c-f0361522f793" width="50" height="48"  />
+      <br>Terminal
     </td>
-</div>
-    
- </tr>
+    <td align="center" width="80">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/edd9879e-fc73-4852-b08b-b7e74d85310c"  width="50" height="48" />
+      <br>firebase
+    </td>
+ 
+  </tr>
 </table>
