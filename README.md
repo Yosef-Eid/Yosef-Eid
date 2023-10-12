@@ -73,7 +73,7 @@ I founded my company, which I called  <a href="https://github.com/jo-script">Jos
         <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/315d0857-c03b-4cd5-9a0c-1ba43837343a" />
       <br>MUI
     </td>
-    <td align="center" width="150">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
@@ -86,17 +86,18 @@ I founded my company, which I called  <a href="https://github.com/jo-script">Jos
       <br>Figma
     </td>
    <br>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+    <td align="center"  width="96">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/d966ff17-0e0d-4416-a46d-5eb05c14357e" width="48" height="48" />
+      <br>Notion
     </td>
   </tr>
 
  
-   <tr align="center">
-       <td align="center"  width="96">
-        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/d966ff17-0e0d-4416-a46d-5eb05c14357e" width="48" height="48" />
-      <br>Notion
+   <tr align="center" width="500">
+       <td align="center"  width="96"><br>
+       <td align="center"  width="96"><br>
+       <td align="center"  width="96"><br>
+       <td align="center"  width="96"><br>
     </td>
     <td align="center" width="96">
         <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/310d4442-f1d6-4617-b9c1-ce12135bb1b5" width="48" height="48" a />
@@ -110,6 +111,11 @@ I founded my company, which I called  <a href="https://github.com/jo-script">Jos
         <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/edd9879e-fc73-4852-b08b-b7e74d85310c"  width="50" height="48" />
       <br>firebase
     </td>
- 
+       <td align="center"  width="96"><br>
+       <td align="center"  width="96"><br>
+       <td align="center"  width="96"><br>
+       <td align="center"  width="96"><br>
+    
   </tr>
+  
 </table>
